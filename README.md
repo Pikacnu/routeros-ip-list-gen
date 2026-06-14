@@ -32,12 +32,14 @@ bun run.ts --ip 1.1.1.1
 
 ## Build
 
-Compile to a standalone executable:
+Compile to a standalone executable (no Bun needed to run):
 
 ```sh
 bun run build
 ```
 
+This produces a `ros-ip-gen` binary for your current platform, same as the ones provided in releases.
+
 ## Releases
 
-Pre-built binaries for Linux, macOS, and Windows are available on the [Releases](../../releases) page.
+Pre-built binaries for Linux, macOS, and Windows are available on the [Releases](../../releases) page. Just download the one for your platform and run it directly — no runtime required.
