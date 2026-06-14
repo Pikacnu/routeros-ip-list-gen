@@ -1,0 +1,13 @@
+{
+  "name": "routeros-asn-cmd",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "bun build ./run.ts --compile --outfile ros-ip-gen"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
