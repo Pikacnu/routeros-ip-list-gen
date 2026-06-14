@@ -43,3 +43,8 @@ This produces a `ros-ip-gen` binary for your current platform, same as the ones 
 ## Releases
 
 Pre-built binaries for Linux, macOS, and Windows are available on the [Releases](../../releases) page. Just download the one for your platform and run it directly — no runtime required.
+
+## Credits
+
+- [ipverse/as-ip-blocks](https://github.com/ipverse/as-ip-blocks) — IP block data by ASN
+- [O-X-L/geoip-asn](https://github.com/O-X-L/geoip-asn) — GeoIP ASN lookup API
